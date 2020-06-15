@@ -24,7 +24,7 @@ Manish Aneja |	manishekaneja@gmail.com
 
 Create a fake news classifier
 
-################# TIMELINE #####################
+################# TIMELINE/ CONTENTS OF FORTHCOMING PROJECT REPOSITORY #####################
 
 Week 1 (W1) : Introduction to Python and GitHub
 
