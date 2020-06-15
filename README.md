@@ -5,8 +5,8 @@ Report submission by team7-ai07. <br/>
 
 ||  Mentors  ||  
 |---|---|---|
-| Devashish Srivastava  | Dimple Bhuta  |  |
-| devashishsrivastava15@gmail.com|  dimple.bhuta@gmail.com | |
+| Devashish Srivastava  | Dimple Bhuta  | Gowtham CH  |
+| devashishsrivastava15@gmail.com|  dimple.bhuta@gmail.com | gautigadu091@gmail.com|
 
 
 ||  Participants  ||  
