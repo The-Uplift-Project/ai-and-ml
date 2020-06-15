@@ -18,7 +18,7 @@ AI Impersonator is a program that allows anyone to impersonate a person of their
 
 <b> Dependencies </b><br>
 `tensorflow>=1.x`<br>
-`numpy`==1.18.0<br>
+`numpy==1.18.0`<br>
 `keras-preprocessing>=1.1.0`<br>
 `tensorflow-estimator>=2.0.1`<br>
 `face-alignment==1.0.0`<br>
