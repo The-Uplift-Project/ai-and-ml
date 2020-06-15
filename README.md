@@ -2,7 +2,7 @@
 
 <H1  align="center" ></>Artificial Intelligence &amp; Machine Learning</H1>
 
-<img src="artificial-intelligence-banner.jpg" alt="Markdown Monster icon" style="padding:50px"/>
+<img src="artificial-intelligence-banner.jpg" alt="Banner Image" style="padding:50px"/>
 
 <H2 align="center"></>AI Impersonator</H2>
 
