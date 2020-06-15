@@ -16,12 +16,12 @@ Sl. No. |Name                 |  Email address       |
 <b> Description </b>
 AI Impersonator is a program that allows anyone to impersonate a person of their choice as an avatar and join a Zoom/Slack/Google Meet call among other video conferencing apps. It uses the [First Order Motion Model for Image Animation](https://github.com/AliaksandrSiarohin/first-order-model) by Aliaksandr Siarohin et. al. The avatars are photorealistic making it impossible to differentiate
 
-<b> Dependencies </b>
-`tensorflow>=1.x`
-`numpy`
-`keras-preprocessing`
-`tensorflow-estimator`
-`face-alignment==1.0.0`
-`msgpack_numpy`
+<b> Dependencies </b><br>
+`tensorflow>=1.x`<br>
+`numpy`==1.18.0<br>
+`keras-preprocessing`>=1.1.0<br>
+`tensorflow-estimator`>=2.0.1<br>
+`face-alignment==1.0.0`<br>
+`msgpack_numpy`<br>
 `pyyaml==5.1`
   
