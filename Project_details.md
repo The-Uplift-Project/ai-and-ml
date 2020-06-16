@@ -33,3 +33,10 @@ The milestones for this project are:<br/>
 * Mask detection in the detected faces,<br/> 
 * Human detection based on CNNs/YOLOs,<br/>
 * Hand gesture recognition.<br/>
+
+Following is the github link we would be using for the project,  <br/>
+(https://github.com/DimpleB0501/upliftProject_DL)<br/>
+We will be updating codes and weekly tasks regularly on this github link.<br/>
+
+
+
