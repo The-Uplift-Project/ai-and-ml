@@ -10,6 +10,7 @@
 | Mallika |mallikas198@gmail.com|
 | Fatima-Ezzahra OUHMID | ou.fatimaezzahra@gmail.com|
 | Katakam Nikhilesh|nikhileshkatakam1@gmail.com|
+| Omij | om181299@gmail.com|
 
 ## Weekly Plans
 

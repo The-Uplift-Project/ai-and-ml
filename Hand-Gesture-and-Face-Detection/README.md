@@ -10,6 +10,7 @@
 | Devanshi Arora | devanshiarora40@gmail.com|
 | Dinesh Kumar | dk4405870@gmail.com|
 | Gaurav Prasad | gaurav.prasad.kol@gmail.com|
+| Manish Tiwari | manish666tiwari@gmail.com|
 
 ## Weekly Plans
 
