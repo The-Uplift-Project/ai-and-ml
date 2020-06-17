@@ -18,6 +18,8 @@
 | Fatima-Ezzahra OUHMID | ou.fatimaezzahra@gmail.com|
 | Devanshi Arora | devanshiarora40@gmail.com|
 | Devanshi Jain | devanshialokjain@gmail.com|
+| Dinesh Kumar | dk4405870@gmail.com|
+| Gaurav Prasad | gaurav.prasad.kol@gmail.com|
 
 
 ### Project Objective
