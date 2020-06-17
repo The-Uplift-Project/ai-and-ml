@@ -1,6 +1,11 @@
 # ai-and-ml Team 6
 For Artificial Intelligence &amp; Machine Learning
 
+
+#link to report
+
+https://tinyurl.com/Teamai06
+=======
 ### Mentors :
 #### Name : Deepti Aggarwal   deeptiagg16@gmail.com 
 #### Name : Bhrigu Kansra       bhrigukansra98@gmail.com [Github: Bhrigu Kansra](https://www.github.com/kinetickansra)
