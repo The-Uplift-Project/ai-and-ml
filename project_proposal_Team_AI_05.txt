@@ -1,0 +1,16 @@
+"Ramping up the learning curve; Using online events effectively for upskilling"
+
+In the present times,students are constantly focusing on upskilling themselves.
+Online events like podcasts.webinars,workshops conducted by many organizations are playing an important role in this process.
+For example, the various events organized by the different chapters of GirlScript Foundation, Coding Blocks, Coding ninjas etc.
+
+Sometimes, student have a diificult time choosing which events to attend.
+
+We would like to build a recommender system for online events that helps by suggesting the upcoming events,
+depending on the career aspirations, the areas on which they want to improve, their tech stack of interest etc.
+
+The workflow is as follows:
+- Familiarizing with the pre-requisites
+- Learning about recommender systems 
+- Data collection and formulating the exact problem 
+- Implementation
